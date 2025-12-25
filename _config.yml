@@ -30,8 +30,6 @@ twitter_username: x
 github_username: jagariku
 
 # Build settings
-sass:
-  sass_dir: _sass
 plugins:
   - jekyll-feed
   - ai_processor
