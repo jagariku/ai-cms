@@ -24,15 +24,6 @@ Hearthstone Battlegrounds は、Blizzard Entertainment が提供するデジタ�
 
 このモードは、Hearthstone のファンだけでなく、カジュアルプレイヤーにもおすすめです。ぜひ試してみてください！
 
-{% highlight ruby %}
-def battlegrounds_strategy
-minions = ["Dragon", "Beast", "Mech"]
-puts "Best minion type: #{minions.sample}"
-end
-battlegrounds_strategy
-#=> prints a random minion type
-{% endhighlight %}
-
 [Hearthstone 公式サイト][hearthstone-site] で詳細を確認できます。
 
 [hearthstone-site]: https://playhearthstone.com/
