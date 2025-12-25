@@ -1,30 +1,38 @@
 ---
 layout: post
-title: "Welcome to Jekyll!"
+title: "Hearthstone Battlegrounds 入門ガイド"
 date: 2025-12-26 00:41:05 +0900
 categories: jekyll update
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Hearthstone Battlegrounds は、Blizzard Entertainment が提供するデジタルカードゲーム Hearthstone の人気モードの一つです。このモードは、プレイヤーがヒーローを選択し、ミニオンを自動で戦わせるオートバトル形式で、戦略的なデッキ構築と戦術が重要になります。
 
-Jekyll requires blog post files to be named according to the following format:
+## Battlegrounds の基本ルール
 
-`YEAR-MONTH-DAY-title.MARKUP`
+- **ヒーロー選択**: 各プレイヤーは 8 人のヒーローから 1 人を選択。ヒーローによって能力が異なり、ゲームプレイに影響します。
+- **ミニオン購入**: 各ターンでゴールドを使ってミニオンを購入。ミニオンは攻撃力、体力、能力を持っています。
+- **自動バトル**: 購入したミニオンが自動で戦います。プレイヤーは戦術を決めるだけ。
+- **勝利条件**: 他のプレイヤーをすべて倒すか、最後の生き残りになる。
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+## 人気のヒーローと戦略
 
-Jekyll also offers powerful support for code snippets:
+人気のヒーローには、Galewing や Y'Shaarj などがあります。戦略としては、早期に強いミニオンを集めるアグロデッキや、後半に強いミニオンを揃えるコントロールデッキがあります。
+
+## 最新アップデート
+
+2025 年現在、Battlegrounds は新しいミニオンやヒーローが追加され、コミュニティで活発に議論されています。定期的なバランス調整が行われ、ゲームが新鮮に保たれています。
+
+このモードは、Hearthstone のファンだけでなく、カジュアルプレイヤーにもおすすめです。ぜひ試してみてください！
 
 {% highlight ruby %}
-def print_hi(name)
-puts "Hi, #{name}"
+def battlegrounds_strategy
+minions = ["Dragon", "Beast", "Mech"]
+puts "Best minion type: #{minions.sample}"
 end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+battlegrounds_strategy
+#=> prints a random minion type
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+[Hearthstone 公式サイト][hearthstone-site] で詳細を確認できます。
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]: https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[hearthstone-site]: https://playhearthstone.com/
