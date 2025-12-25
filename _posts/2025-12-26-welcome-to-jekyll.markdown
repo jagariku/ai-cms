@@ -16,7 +16,7 @@ Hearthstone Battlegrounds は、Blizzard Entertainment が提供するデジタ�
 
 ## 人気のヒーローと戦略
 
-人気のヒーローには、Galewing や Y'Shaarj などがあります。戦略としては、早期に強いミニオンを集めるアグロデッキや、後半に強いミニオンを揃えるコントロールデッキがあります。
+人気のヒーローには、<span class="hero-tooltip" data-hero="galewing">Galewing</span> や <span class="hero-tooltip" data-hero="yshaarj">Y'Shaarj</span> などがあります。戦略としては、早期に強いミニオンを集めるアグロデッキや、後半に強いミニオンを揃えるコントロールデッキがあります。
 
 ## 最新アップデート
 
