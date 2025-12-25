@@ -1,0 +1,90 @@
+---
+---
+
+@import "minima";
+
+// Custom theme: Navy Blue Theme
+// Base colors
+$navy-bg: #001122;
+$navy-text: #ffffff;
+$navy-link: #4a90e2;
+$navy-accent: #00bcd4;
+
+// Body
+body {
+  background-color: $navy-bg;
+  color: $navy-text;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+// Headers
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: $navy-accent;
+  font-weight: 300;
+}
+
+// Links
+a {
+  color: $navy-link;
+  &:hover {
+    color: lighten($navy-link, 20%);
+  }
+}
+
+// Post content
+.post-content {
+  background-color: rgba(255, 255, 255, 0.05);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+// Navigation
+.site-nav {
+  background-color: darken($navy-bg, 10%);
+  border-bottom: 2px solid $navy-accent;
+}
+
+// Footer
+.site-footer {
+  background-color: darken($navy-bg, 5%);
+  color: lighten($navy-text, 20%);
+}
+
+// Buttons
+.btn {
+  background-color: $navy-link;
+  border-color: $navy-link;
+  &:hover {
+    background-color: lighten($navy-link, 10%);
+  }
+}
+
+// Unique elements
+.wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.site-header {
+  text-align: center;
+  padding: 40px 0;
+  background: linear-gradient(135deg, $navy-bg 0%, darken($navy-bg, 20%) 100%);
+}
+
+.post-meta {
+  font-style: italic;
+  color: lighten($navy-text, 30%);
+}
+
+// Responsive
+@media (max-width: 768px) {
+  .post-content {
+    padding: 15px;
+  }
+}

@@ -30,7 +30,8 @@ twitter_username: x
 github_username: jagariku
 
 # Build settings
-theme: minima
+sass:
+  sass_dir: assets/css
 plugins:
   - jekyll-feed
   - ai_processor

@@ -15,9 +15,14 @@
 - VSCode で GitHub Copilot を使って記事を書く。
 - ビルドは GitHub Pages が自動で行う。
 
-## AI機能
+## AI 機能
 
-- 記事の要約を自動生成（OpenAI API使用）。
+- 記事の要約を自動生成（OpenAI API 使用）。
+
+## テーマ
+
+カスタムテーマ "Navy Theme" を採用。紺色を基調とした見やすくユニークなデザイン。
+
 - 環境変数 `OPENAI_API_KEY` を設定してください。
 - ローカル: `OPENAI_API_KEY=your_key bundle exec jekyll serve`
-- GitHub Actions: リポジトリのSecretsに `OPENAI_API_KEY` を追加。
+- GitHub Actions: リポジトリの Secrets に `OPENAI_API_KEY` を追加。
