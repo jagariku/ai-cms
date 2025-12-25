@@ -1,0 +1,39 @@
+// Syntax highlighting
+.highlight {
+  margin-bottom: $spacing-unit;
+  border-radius: 4px;
+  background-color: $code-background-color-dark;
+  @extend %vertical-rhythm;
+
+  .highlighter-rouge & {
+    background-color: $code-background-color;
+  }
+}
+
+.highlight pre,
+.highlight code {
+  background-color: transparent;
+}
+
+pre,
+code {
+  font-family: $mono-font-family;
+  font-size: 15px;
+}
+
+code {
+  background-color: $code-background-color;
+  padding: 1px 5px;
+  border-radius: 2px;
+}
+
+pre {
+  padding: 8px 12px;
+  overflow-x: auto;
+
+  > code {
+    border: 0;
+    padding-right: 0;
+    padding-left: 0;
+  }
+}

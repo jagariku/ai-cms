@@ -1,0 +1,179 @@
+// Base
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+}
+
+@media screen and (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  html {
+    font-size: 18px;
+  }
+}
+
+@media screen and (min-width: 1400px) {
+  html {
+    font-size: 20px;
+  }
+}
+
+body {
+  color: $text-color;
+  background-color: $background-color;
+  font-family: $sans-font-family;
+  line-height: 1.6;
+}
+
+p {
+  margin-top: 0;
+}
+
+a {
+  color: $brand-color;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.btn {
+  display: inline-block;
+  padding: 5px 10px;
+  color: $text-color;
+  text-decoration: none;
+  background-color: $background-color;
+  border: 1px solid mix($text-color, $background-color, 80%);
+  border-radius: 3px;
+
+  &:hover {
+    background-color: mix($text-color, $background-color, 90%);
+  }
+}
+
+.page-link {
+  color: $text-color;
+  border-bottom: 1px solid mix($text-color, $background-color, 80%);
+
+  &:hover {
+    border-bottom-color: $text-color;
+  }
+}
+
+.page-meta {
+  color: $grey-color;
+}
+
+.page-heading {
+  font-size: 20px;
+}
+
+.post-meta {
+  color: $grey-color;
+}
+
+.post-link {
+  display: block;
+  font-size: 24px;
+}
+
+// Posts
+.post-header {
+  margin-bottom: $spacing-unit;
+}
+
+.post-title {
+  font-size: 42px;
+  letter-spacing: -1px;
+  line-height: 1;
+
+  @include media-query(650px) {
+    font-size: 36px;
+  }
+}
+
+.post-content {
+  margin-bottom: $spacing-unit;
+}
+
+.post-link {
+  display: block;
+  font-size: 24px;
+}
+
+// Pagination
+.pagination {
+  margin: $spacing-unit 0;
+}
+
+// Syntax highlighting
+.highlight {
+  margin-bottom: $spacing-unit;
+  border-radius: 4px;
+  background-color: $code-background-color-dark;
+  @extend %vertical-rhythm;
+
+  .highlighter-rouge & {
+    background-color: $code-background-color;
+  }
+}
+
+.highlight pre,
+.highlight code {
+  background-color: transparent;
+}
+
+pre,
+code {
+  font-family: $mono-font-family;
+  font-size: 15px;
+}
+
+code {
+  background-color: $code-background-color;
+  padding: 1px 5px;
+  border-radius: 2px;
+}
+
+pre {
+  padding: 8px 12px;
+  overflow-x: auto;
+
+  > code {
+    border: 0;
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
+
+// Tables
+table {
+  margin-bottom: $spacing-unit;
+  width: 100%;
+  text-align: left;
+  color: $grey-color-dark;
+  border-collapse: collapse;
+  border: 1px solid $grey-color-light;
+
+  tr:nth-child(even) {
+    background-color: $code-background-color;
+  }
+
+  th, td {
+    padding: 10px 15px;
+    border: 1px solid $grey-color-light;
+  }
+
+  th {
+    background-color: $grey-color-light;
+    border: 1px solid $grey-color-dark;
+  }
+}
