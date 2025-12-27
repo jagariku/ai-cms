@@ -1,41 +1,82 @@
 # GitHub Copilot Instructions for Hearthstone Battlegrounds Blog
 
-## Project Context
+## プロジェクトコンテキスト
 
-This is a Jekyll-based blog focused on Hearthstone Battlegrounds guides. Articles are written in Japanese, using Markdown with front matter. The site integrates Blizzard's Hearthstone API to fetch and display latest game data (heroes, minions, buddies).
+これは Jekyll ベースのブログで、Hearthstone Battlegrounds のガイドに焦点を当てています。記事は日本語で書き、フロントマター付きの Markdown を使用します。サイトは Blizzard の Hearthstone API を統合し、最新のゲームデータ（ヒーロー、ミニオン、バディ）を取得して表示します。
 
-## Coding Guidelines
+## コーディングガイドライン
 
-- Use Ruby for scripts and Jekyll plugins.
-- Environment variables for API credentials (.env file).
-- Data stored in \_data/ as JSON/YAML.
-- Build with `bundle exec jekyll build`.
+- スクリプトと Jekyll プラグインには Ruby を使用。
+- API 認証情報には環境変数（.env ファイル）を使用。
+- データは\_data/に JSON/YAML 形式で保存。
+- `bundle exec jekyll build`でビルド。
 
-## Article Writing Guidelines
+## 記事執筆ガイドライン
 
-- Write in Japanese.
-- Use Jekyll front matter: title, date, categories (hearthstone battlegrounds).
-- Include links to official Hearthstone site.
-- Reference API data using Liquid tags (e.g., {% for minion in site.data.minions %}).
-- Focus on beginner to intermediate players.
-- Provide strategic advice based on latest data.
+- 日本語で書く。
+- Jekyll フロントマターを使用: title, date, categories (hearthstone battlegrounds)。
+- 公式 Hearthstone サイトへのリンクを含める。
+- Liquid タグを使って API データを参照（例: {% for minion in site.data.minions %}）。
+- 初心者から中級者向けに焦点を当て、最新データに基づく戦略アドバイスを提供。
 
-## API Usage
+### 高度な記事執筆の観点
 
-- Blizzard Hearthstone API for cards, heroes, etc.
-- Endpoints: /hearthstone/cards with params set=battlegrounds, locale=ja_JP.
-- Handle authentication with OAuth2.
-- Filter data appropriately (e.g., collectible for minions).
+より人間にとって有用な記事を書くために、以下の観点を適した形で追加する：
 
-## Best Practices
+1. **「Tier 表」を超えた「前提条件」の提示**  
+   単なるヒーローや種族の Tier 表はどこにでもあります。セミプロ層が求めているのは、「どの条件が揃った時にその Tier が成立するのか」という分岐点。
 
-- Keep code secure: no hardcoded secrets.
-- Update data regularly with scripts.
-- Test builds locally before committing.
-- Follow Hearthstone terms and avoid copyright issues.
+   - BAN 状況による評価の変動: 「このヒーローは強いが、ミニオン種族（獣、メカ等）がいない場合は Tier 2 まで落ちる」といった条件付きの評価。
+   - クエスト/呪文/バディの影響: 現在のシーズン固有のシステムと、特定の種族・ヒーローとの相関関係。
+   - 「完走（1 位）」か「延命（4 位以内）」か: その戦略が 1 位を狙うためのものか、レートを溶かさないための守備的なものかを明確にする。
 
-## Response Style
+2. **思考プロセス（意思決定ツリー）の可視化**  
+   上級者は無意識に行っている判断を、フローチャートのように言語化。
 
-- Be helpful and concise.
-- Suggest code snippets in Ruby/Markdown.
-- Explain changes clearly.
+   - 3 ターン目（5 コイン）の分岐: 「基本はグレード上げだが、盤面が弱すぎて HP を削られすぎる場合は入れ替えを優先する」など、数値に基づいた判断基準。
+   - 「受け」の広さの定義: 「今このミニオンを買っておくと、次のターンにどの種族が来てもシナジーが発生する」という、エンジニアリングにおける「拡張性」に近い考え方の解説。
+
+3. **「配置」の深いロジック**  
+   アマチュアとセミプロを分ける最大の壁は配置。ここを詳細に解説。
+
+   - スタッツの並び順だけではない戦略: 相手の「聖なる盾」を剥がすための初動。「烈火のスカイ・フィンのような攻撃時効果」と「挑発」の兼ね合い。
+   - スカウティング（偵察）情報の活用: 直近の相手の編成から、次の戦闘での配置をどう微調整するか。
+   - 「負け筋」を潰す配置: 「最悪の結果（大ダメージ）を避けるための配置」という守備的な視点。
+
+4. **統計データと理論の融合**  
+   エンジニア的な視点を活かし、データに基づいた裏付け。
+
+   - HSReplay などの統計の読み解き: 「勝率 4.0 位」という数字の裏にある、「下位を取りにくいが 1 位も取りにくい」といった特性の解説。
+   - 期待値計算の導入: 「ここで 10 ゴールド使い切ってリロールするのと、1 体妥協して雇うのとでは、次ターンの生存率が何%変わるか」といった思考法。
+
+5. **リーダー・コーチの視点を活かした「学習法」**  
+   記事の最後に、読者が自力で成長するための「振り返り方」を提示。
+
+   - リプレイのチェックポイント: 「負けたターンではなく、その 3 ターン前のリソース配分にミスがなかったか」という根本原因の探し方。
+   - 「上振れ」と「実力」の分離: たまたま勝った試合を「正解」とせず、プロセスが正しかったかを評価するマインドセット。
+
+6. **間違いやすい用語の回避とバリデーション**  
+   AI 生成記事が露呈しやすいポイントを避け、正確な用語を使用。
+   - 用語定義（厳守）: Tavern Tier → 酒場グレード, Minion → ミニオン, Spell → 呪文, Battlecry → 雄叫び, Deathrattle → 断末魔, Divine Shield → 聖なる盾, Quilboar → キルボア, Murloc → マーロック, Refresh → 入替, Freeze → 凍結。
+   - セルフ・デバッグ: 「やってはいけないこと」を明示（例: 「ティア」という言葉を使わず「グレード」と呼ぶ）。
+   - ファクトチェック: 最新パッチノートや公式データを参照してスタッツの矛盾を確認。
+   - トーン＆マナーの統一: 読みやすさを重視（例: 専門用語を噛み砕く、結論を先に書く）。
+
+## API 使用
+
+- エンドポイント: /hearthstone/cards with params set=battlegrounds, locale=ja_JP。
+- OAuth2 で認証を処理。
+- データを適切にフィルタリング（例: ミニオンの collectible）。
+
+## ベストプラクティス
+
+- コードを安全に保つ: ハードコードされたシークレットなし。
+- スクリプトでデータを定期的に更新。
+- コミット前にローカルでビルドをテスト。
+- Hearthstone の用語に従い、著作権問題を避ける。
+
+## レスポンススタイル
+
+- 役立つ、簡潔な提案をする。
+- Ruby/Markdown のコードスニペットを提案。
+- 変更を明確に説明。
