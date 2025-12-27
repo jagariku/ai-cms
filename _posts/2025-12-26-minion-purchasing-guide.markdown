@@ -35,6 +35,15 @@ Hearthstone Battlegrounds のゲームでは、ミニオンを購入すること
 - 早めに酒場グレードを上げることで、強力なミニオンを手に入れやすくなる。
 - グレード 5 以降は、対戦相手の状況を見て、体力と相談し、慎重に判断する。
 
+## 最新ミニオン一覧
+
+API から取得した最新のバトルグラウンドミニオンを以下にリストします。
+
+{% for minion in site.data.minions %}
+
+- **{{ minion.name }}**: {{ minion.text }}
+  {% endfor %}
+
 ミニオン購入は Battlegrounds の基本です。練習して感覚を養いましょう！
 
 [Hearthstone 公式サイト][hearthstone-site] で詳細を確認できます。
