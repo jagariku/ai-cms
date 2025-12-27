@@ -2,6 +2,14 @@
 
 このプロジェクトは、Jekyll ベースの AI 活用 CMS です。GitHub Copilot を使って VSCode 上で Markdown 記事を作成し、AI で処理（将来拡張）して GitHub Pages にデプロイできます。
 
+## ドキュメント
+
+詳細な情報は `docs/` ディレクトリを参照してください。
+
+- **[アーキテクチャ](docs/architecture.md)**: システム構成、AI フロー、データ連携について。
+- **[開発者ガイド](docs/developer_guide.md)**: セットアップ、コマンド、デプロイ方法について。
+
+
 ## セットアップ
 
 1. Ruby と Bundler をインストール。
