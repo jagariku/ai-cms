@@ -1,0 +1,3425 @@
+{
+  "sets": [
+    {
+      "id": 1957,
+      "name": "タイムウェイの旅人たち",
+      "slug": "across-the-timeways",
+      "hyped": true,
+      "type": "",
+      "collectibleCount": 145,
+      "collectibleRevealedCount": 145,
+      "nonCollectibleCount": 71,
+      "nonCollectibleRevealedCount": 63
+    },
+    {
+      "id": 1952,
+      "name": "ウンゴロ最後の秘境",
+      "slug": "the-lost-city-of-ungoro",
+      "hyped": false,
+      "type": "",
+      "collectibleCount": 183,
+      "collectibleRevealedCount": 183,
+      "nonCollectibleCount": 110,
+      "nonCollectibleRevealedCount": 106
+    },
+    {
+      "id": 1946,
+      "name": "夢みる大地エメラルド・ドリーム",
+      "slug": "into-the-emerald-dream",
+      "hyped": false,
+      "type": "",
+      "collectibleCount": 183,
+      "collectibleRevealedCount": 183,
+      "nonCollectibleCount": 99,
+      "nonCollectibleRevealedCount": 78
+    },
+    {
+      "id": 1935,
+      "name": "暗黒宇宙ドラナイ伝",
+      "slug": "the-great-dark-beyond",
+      "hyped": false,
+      "type": "expansion",
+      "collectibleCount": 194,
+      "collectibleRevealedCount": 194,
+      "nonCollectibleCount": 61,
+      "nonCollectibleRevealedCount": 55
+    },
+    {
+      "id": 1905,
+      "name": "大ピンチ！パイレーツ・パラダイス",
+      "slug": "perils-in-paradise",
+      "hyped": false,
+      "type": "expansion",
+      "collectibleCount": 183,
+      "collectibleRevealedCount": 183,
+      "nonCollectibleCount": 127,
+      "nonCollectibleRevealedCount": 123
+    },
+    {
+      "id": 1897,
+      "name": "ウィズバンのワクワクワークショップ",
+      "slug": "whizbangs-workshop",
+      "hyped": false,
+      "type": "expansion",
+      "collectibleCount": 183,
+      "collectibleRevealedCount": 183,
+      "nonCollectibleCount": 97,
+      "nonCollectibleRevealedCount": 82
+    },
+    {
+      "id": 1941,
+      "name": "イベント",
+      "slug": "event",
+      "hyped": false,
+      "type": "expansion",
+      "collectibleCount": 9,
+      "collectibleRevealedCount": 6,
+      "nonCollectibleCount": 13,
+      "nonCollectibleRevealedCount": 4
+    },
+    {
+      "id": 1892,
+      "name": "バッドランドの決斗",
+      "slug": "showdown-in-the-badlands",
+      "hyped": false,
+      "type": "expansion",
+      "collectibleCount": 183,
+      "collectibleRevealedCount": 183,
+      "nonCollectibleCount": 88,
+      "nonCollectibleRevealedCount": 85
+    },
+    {
+      "id": 1858,
+      "name": "タイタンの目醒め",
+      "slug": "titans",
+      "hyped": false,
+      "type": "expansion",
+      "collectibleCount": 183,
+      "collectibleRevealedCount": 183,
+      "nonCollectibleCount": 166,
+      "nonCollectibleRevealedCount": 153
+    },
+    {
+      "id": 1809,
+      "name": "集え！レジェンド・フェス",
+      "slug": "festival-of-legends",
+      "hyped": false,
+      "type": "expansion",
+      "collectibleCount": 183,
+      "collectibleRevealedCount": 183,
+      "nonCollectibleCount": 73,
+      "nonCollectibleRevealedCount": 60
+    },
+    {
+      "id": 1898,
+      "name": "時の大洞窟",
+      "slug": "caverns-of-time",
+      "hyped": false,
+      "type": "",
+      "collectibleCount": 147,
+      "collectibleRevealedCount": 147,
+      "nonCollectibleCount": 25,
+      "nonCollectibleRevealedCount": 23
+    },
+    {
+      "id": 1776,
+      "name": "リッチキングの凱旋",
+      "slug": "march-of-the-lich-king",
+      "hyped": false,
+      "type": "expansion",
+      "collectibleCount": 183,
+      "collectibleRevealedCount": 183,
+      "nonCollectibleCount": 125,
+      "nonCollectibleRevealedCount": 60
+    },
+    {
+      "id": 1869,
+      "name": "アーサスの旅路",
+      "slug": "path-of-arthas",
+      "hyped": false,
+      "type": "",
+      "collectibleCount": 26,
+      "collectibleRevealedCount": 26,
+      "nonCollectibleCount": 23,
+      "nonCollectibleRevealedCount": 4
+    },
+    {
+      "id": 1691,
+      "name": "ナスリア城殺人事件",
+      "slug": "murder-at-castle-nathria",
+      "hyped": false,
+      "type": "expansion",
+      "collectibleCount": 170,
+      "collectibleRevealedCount": 170,
+      "nonCollectibleCount": 125,
+      "nonCollectibleRevealedCount": 53
+    },
+    {
+      "id": 1658,
+      "name": "深淵に眠る海底都市",
+      "slug": "voyage-to-the-sunken-city",
+      "hyped": false,
+      "type": "expansion",
+      "collectibleCount": 170,
+      "collectibleRevealedCount": 170,
+      "nonCollectibleCount": 522,
+      "nonCollectibleRevealedCount": 80
+    },
+    {
+      "id": 1626,
+      "name": "烈戦のアルタラック",
+      "slug": "fractured-in-alterac-valley",
+      "hyped": false,
+      "type": "expansion",
+      "collectibleCount": 170,
+      "collectibleRevealedCount": 170,
+      "nonCollectibleCount": 379,
+      "nonCollectibleRevealedCount": 105
+    },
+    {
+      "id": 1578,
+      "name": "風集うストームウィンド",
+      "slug": "united-in-stormwind",
+      "hyped": false,
+      "type": "expansion",
+      "collectibleCount": 170,
+      "collectibleRevealedCount": 170,
+      "nonCollectibleCount": 315,
+      "nonCollectibleRevealedCount": 66
+    },
+    {
+      "id": 1525,
+      "name": "荒ぶる大地の強者たち",
+      "slug": "forged-in-the-barrens",
+      "hyped": false,
+      "type": "expansion",
+      "collectibleCount": 170,
+      "collectibleRevealedCount": 170,
+      "nonCollectibleCount": 668,
+      "nonCollectibleRevealedCount": 82
+    },
+    {
+      "id": 1466,
+      "name": "ダークムーン・フェアへの招待状",
+      "slug": "madness-at-the-darkmoon-faire",
+      "hyped": false,
+      "type": "expansion",
+      "collectibleCount": 170,
+      "collectibleRevealedCount": 170,
+      "nonCollectibleCount": 357,
+      "nonCollectibleRevealedCount": 107
+    },
+    {
+      "id": 1443,
+      "name": "魔法学院スクロマンス",
+      "slug": "scholomance-academy",
+      "hyped": false,
+      "type": "expansion",
+      "collectibleCount": 135,
+      "collectibleRevealedCount": 135,
+      "nonCollectibleCount": 200,
+      "nonCollectibleRevealedCount": 62
+    },
+    {
+      "id": 1414,
+      "name": "灰に舞う降魔の狩人",
+      "slug": "ashes-of-outland",
+      "hyped": false,
+      "type": "expansion",
+      "collectibleCount": 135,
+      "collectibleRevealedCount": 135,
+      "nonCollectibleCount": 89,
+      "nonCollectibleRevealedCount": 54
+    },
+    {
+      "id": 1463,
+      "name": "新参デーモンハンター",
+      "slug": "demonhunter-initiate",
+      "hyped": false,
+      "type": "base",
+      "collectibleCount": 20,
+      "collectibleRevealedCount": 20,
+      "nonCollectibleCount": 11,
+      "nonCollectibleRevealedCount": 3
+    },
+    {
+      "id": 1403,
+      "name": "ガラクロンドの目覚め",
+      "slug": "galakronds-awakening",
+      "hyped": false,
+      "type": "adventure",
+      "collectibleCount": 35,
+      "collectibleRevealedCount": 35,
+      "nonCollectibleCount": 12,
+      "nonCollectibleRevealedCount": 5
+    },
+    {
+      "id": 1347,
+      "name": "激闘！ドラゴン大決戦",
+      "slug": "descent-of-dragons",
+      "hyped": false,
+      "type": "expansion",
+      "collectibleCount": 140,
+      "collectibleRevealedCount": 140,
+      "nonCollectibleCount": 61,
+      "nonCollectibleRevealedCount": 54
+    },
+    {
+      "id": 1158,
+      "name": "突撃！探検同盟",
+      "slug": "saviors-of-uldum",
+      "hyped": false,
+      "type": "expansion",
+      "collectibleCount": 135,
+      "collectibleRevealedCount": 135,
+      "nonCollectibleCount": 43,
+      "nonCollectibleRevealedCount": 27
+    },
+    {
+      "id": 1130,
+      "name": "爆誕！悪党同盟",
+      "slug": "rise-of-shadows",
+      "hyped": false,
+      "type": "expansion",
+      "collectibleCount": 136,
+      "collectibleRevealedCount": 136,
+      "nonCollectibleCount": 50,
+      "nonCollectibleRevealedCount": 36
+    },
+    {
+      "id": 1129,
+      "name": "天下一ヴドゥ祭",
+      "slug": "rastakhans-rumble",
+      "hyped": false,
+      "type": "expansion",
+      "collectibleCount": 135,
+      "collectibleRevealedCount": 135,
+      "nonCollectibleCount": 31,
+      "nonCollectibleRevealedCount": 27
+    },
+    {
+      "id": 1127,
+      "name": "博士のメカメカ大作戦",
+      "slug": "the-boomsday-project",
+      "hyped": false,
+      "type": "expansion",
+      "collectibleCount": 136,
+      "collectibleRevealedCount": 136,
+      "nonCollectibleCount": 29,
+      "nonCollectibleRevealedCount": 17
+    },
+    {
+      "id": 1125,
+      "name": "妖の森ウィッチウッド",
+      "slug": "the-witchwood",
+      "hyped": false,
+      "type": "expansion",
+      "collectibleCount": 135,
+      "collectibleRevealedCount": 135,
+      "nonCollectibleCount": 32,
+      "nonCollectibleRevealedCount": 24
+    },
+    {
+      "id": 1004,
+      "name": "コボルトと秘宝の迷宮",
+      "slug": "kobolds-and-catacombs",
+      "hyped": false,
+      "type": "expansion",
+      "collectibleCount": 135,
+      "collectibleRevealedCount": 135,
+      "nonCollectibleCount": 84,
+      "nonCollectibleRevealedCount": 73
+    },
+    {
+      "id": 1001,
+      "name": "凍てつく玉座の騎士団",
+      "slug": "knights-of-the-frozen-throne",
+      "hyped": false,
+      "type": "expansion",
+      "collectibleCount": 135,
+      "collectibleRevealedCount": 135,
+      "nonCollectibleCount": 114,
+      "nonCollectibleRevealedCount": 45
+    },
+    {
+      "id": 27,
+      "name": "大魔境ウンゴロ",
+      "slug": "journey-to-ungoro",
+      "hyped": false,
+      "type": "expansion",
+      "collectibleCount": 135,
+      "collectibleRevealedCount": 135,
+      "nonCollectibleCount": 55,
+      "nonCollectibleRevealedCount": 55
+    },
+    {
+      "id": 25,
+      "name": "仁義なきガジェッツァン",
+      "slug": "mean-streets-of-gadgetzan",
+      "hyped": false,
+      "type": "expansion",
+      "collectibleCount": 132,
+      "collectibleRevealedCount": 132,
+      "nonCollectibleCount": 87,
+      "nonCollectibleRevealedCount": 78
+    },
+    {
+      "id": 23,
+      "name": "ワン・ナイト・イン・カラザン",
+      "slug": "one-night-in-karazhan",
+      "hyped": false,
+      "type": "adventure",
+      "collectibleCount": 45,
+      "collectibleRevealedCount": 45,
+      "nonCollectibleCount": 55,
+      "nonCollectibleRevealedCount": 53
+    },
+    {
+      "id": 21,
+      "name": "旧神のささやき",
+      "slug": "whispers-of-the-old-gods",
+      "hyped": false,
+      "type": "expansion",
+      "collectibleCount": 134,
+      "collectibleRevealedCount": 134,
+      "nonCollectibleCount": 40,
+      "nonCollectibleRevealedCount": 25
+    },
+    {
+      "id": 20,
+      "name": "リーグ・オブ・エクスプローラー",
+      "slug": "league-of-explorers",
+      "hyped": false,
+      "type": "adventure",
+      "collectibleCount": 45,
+      "collectibleRevealedCount": 45,
+      "nonCollectibleCount": 184,
+      "nonCollectibleRevealedCount": 13
+    },
+    {
+      "id": 15,
+      "name": "グランド・トーナメント",
+      "slug": "the-grand-tournament",
+      "hyped": false,
+      "type": "expansion",
+      "collectibleCount": 132,
+      "collectibleRevealedCount": 132,
+      "nonCollectibleCount": 26,
+      "nonCollectibleRevealedCount": 16
+    },
+    {
+      "id": 14,
+      "name": "ブラックロック・マウンテン",
+      "slug": "blackrock-mountain",
+      "hyped": false,
+      "type": "adventure",
+      "collectibleCount": 31,
+      "collectibleRevealedCount": 31,
+      "nonCollectibleCount": 175,
+      "nonCollectibleRevealedCount": 10
+    },
+    {
+      "id": 13,
+      "name": "ゴブリンvsノーム",
+      "slug": "goblins-vs-gnomes",
+      "hyped": false,
+      "type": "expansion",
+      "collectibleCount": 123,
+      "collectibleRevealedCount": 123,
+      "nonCollectibleCount": 28,
+      "nonCollectibleRevealedCount": 14
+    },
+    {
+      "id": 12,
+      "name": "ナクスラーマスの呪い",
+      "slug": "naxxramas",
+      "hyped": false,
+      "type": "adventure",
+      "collectibleCount": 30,
+      "collectibleRevealedCount": 30,
+      "nonCollectibleCount": 116,
+      "nonCollectibleRevealedCount": 113
+    },
+    {
+      "id": 1635,
+      "name": "レガシー",
+      "slug": "legacy",
+      "aliasSetIds": [
+        3,
+        4
+      ],
+      "hyped": false,
+      "type": "",
+      "collectibleCount": 467,
+      "collectibleRevealedCount": 467,
+      "nonCollectibleCount": 157,
+      "nonCollectibleRevealedCount": 116
+    },
+    {
+      "id": 1637,
+      "name": "コア",
+      "slug": "core",
+      "hyped": false,
+      "type": "",
+      "collectibleCount": 288,
+      "collectibleRevealedCount": 288,
+      "nonCollectibleCount": 58,
+      "nonCollectibleRevealedCount": 19
+    }
+  ],
+  "setGroups": [
+    {
+      "slug": "raptor",
+      "year": 2025,
+      "svg": "https://images.blz-contentstack.com/v3/assets/bltc965041283bac56c/bltc2847b2e8b5f6f6b/67ad9a0283b578ebd1e90031/Raptor.svg",
+      "cardSets": [],
+      "name": "ラプター年",
+      "standard": true,
+      "icon": "icon_cardset_yearoftheraptor"
+    },
+    {
+      "slug": "Pegasus",
+      "year": 2024,
+      "svg": "https://images.blz-contentstack.com/v3/assets/bltc965041283bac56c/blt0136a847fd5a5b74/65c55bcddc7247cae3e8f320/PegasusSVG.svg",
+      "cardSets": [],
+      "name": "ペガサス年",
+      "standard": true,
+      "icon": "icon_cardset_yearofthePegasus"
+    },
+    {
+      "slug": "Wolf",
+      "year": 2023,
+      "svg": "https://images.blz-contentstack.com/v3/assets/bltc965041283bac56c/blt436c5e93bf8faf2c/64079268ad9e38554653fb6b/YotW_SetIcon_Colored.svg",
+      "cardSets": [],
+      "name": "オオカミ年",
+      "standard": false,
+      "icon": "icon_cardset_yearoftheWolf"
+    },
+    {
+      "slug": "hydra",
+      "year": 2022,
+      "svg": "https://images.blz-contentstack.com/v3/assets/bltc965041283bac56c/blt63ce92e33c79ee7f/622902fe04503350d255bca6/YotH_SVG-01-01.svg",
+      "cardSets": [
+        "voyage-to-the-sunken-city"
+      ],
+      "name": "ヒドラ年",
+      "standard": false,
+      "icon": "icon_cardset_yearofthehydra"
+    },
+    {
+      "slug": "gryphon",
+      "year": 2021,
+      "svg": "https://images.blz-contentstack.com/v3/assets/bltc965041283bac56c/bltd467577e4baabcf1/600740743e8106106f1bc575/year_icon_gryphon.svg",
+      "cardSets": [
+        "fractured-in-alterac-valley",
+        "united-in-stormwind",
+        "forged-in-the-barrens"
+      ],
+      "name": "グリフォン年",
+      "standard": false,
+      "icon": "icon_cardset_yearofthegryphon"
+    },
+    {
+      "slug": "phoenix",
+      "year": 2020,
+      "svg": "https://images.blz-contentstack.com/v3/assets/bltc965041283bac56c/blt213931027a138c86/602700575e4a6c4d10dea67e/icon_year_phoenix.svg",
+      "cardSets": [
+        "madness-at-the-darkmoon-faire",
+        "scholomance-academy",
+        "ashes-of-outland"
+      ],
+      "name": "フェニックス年",
+      "standard": false,
+      "icon": "icon_cardset_yearofthephoenix"
+    },
+    {
+      "slug": "dragon",
+      "year": 2019,
+      "svg": null,
+      "cardSets": [
+        "galakronds-awakening",
+        "descent-of-dragons",
+        "saviors-of-uldum",
+        "rise-of-shadows"
+      ],
+      "name": "ドラゴン年",
+      "standard": false,
+      "icon": "icon_cardset_yearofthedragon"
+    },
+    {
+      "slug": "raven",
+      "year": 2018,
+      "svg": null,
+      "cardSets": [
+        "rastakhans-rumble",
+        "the-boomsday-project",
+        "the-witchwood"
+      ],
+      "name": "ワタリガラス年",
+      "standard": false,
+      "icon": "icon_cardset_yearoftheraven"
+    },
+    {
+      "slug": "mammoth",
+      "year": 2017,
+      "svg": null,
+      "cardSets": [
+        "kobolds-and-catacombs",
+        "knights-of-the-frozen-throne",
+        "journey-to-ungoro"
+      ],
+      "name": "マンモス年",
+      "standard": false,
+      "icon": "icon_cardset_yearofthemammoth"
+    },
+    {
+      "slug": "kraken",
+      "year": 2016,
+      "svg": null,
+      "cardSets": [
+        "mean-streets-of-gadgetzan",
+        "one-night-in-karazhan",
+        "whispers-of-the-old-gods"
+      ],
+      "name": "クラーケン年",
+      "standard": false,
+      "icon": "icon_cardset_yearofthekraken"
+    },
+    {
+      "slug": "classic",
+      "year": 2015,
+      "svg": null,
+      "cardSets": [
+        "league-of-explorers",
+        "the-grand-tournament",
+        "blackrock-mountain",
+        "goblins-vs-gnomes",
+        "naxxramas"
+      ],
+      "name": "1～2年目",
+      "standard": false,
+      "yearRange": "2014-2015",
+      "icon": "icon_cardset_classic"
+    },
+    {
+      "slug": "standard",
+      "cardSets": [
+        "across-the-timeways",
+        "the-lost-city-of-ungoro",
+        "into-the-emerald-dream",
+        "event",
+        "the-great-dark-beyond",
+        "perils-in-paradise",
+        "whizbangs-workshop",
+        "core"
+      ],
+      "name": "スタンダードカード"
+    },
+    {
+      "slug": "wild",
+      "cardSets": [
+        "across-the-timeways",
+        "the-lost-city-of-ungoro",
+        "into-the-emerald-dream",
+        "event",
+        "the-great-dark-beyond",
+        "perils-in-paradise",
+        "caverns-of-time",
+        "whizbangs-workshop",
+        "showdown-in-the-badlands",
+        "path-of-arthas",
+        "titans",
+        "festival-of-legends",
+        "march-of-the-lich-king",
+        "murder-at-castle-nathria",
+        "voyage-to-the-sunken-city",
+        "core",
+        "legacy",
+        "fractured-in-alterac-valley",
+        "united-in-stormwind",
+        "forged-in-the-barrens",
+        "madness-at-the-darkmoon-faire",
+        "demonhunter-initiate",
+        "scholomance-academy",
+        "ashes-of-outland",
+        "galakronds-awakening",
+        "descent-of-dragons",
+        "saviors-of-uldum",
+        "rise-of-shadows",
+        "rastakhans-rumble",
+        "the-boomsday-project",
+        "the-witchwood",
+        "kobolds-and-catacombs",
+        "knights-of-the-frozen-throne",
+        "journey-to-ungoro",
+        "mean-streets-of-gadgetzan",
+        "one-night-in-karazhan",
+        "whispers-of-the-old-gods",
+        "league-of-explorers",
+        "the-grand-tournament",
+        "blackrock-mountain",
+        "goblins-vs-gnomes",
+        "naxxramas"
+      ],
+      "name": "ワイルドカード"
+    }
+  ],
+  "gameModes": [
+    {
+      "slug": "constructed",
+      "id": 1,
+      "name": "標準カードとワイルドセット"
+    },
+    {
+      "slug": "battlegrounds",
+      "id": 2,
+      "name": "バトルグラウンド"
+    },
+    {
+      "slug": "arena",
+      "id": 3,
+      "name": "現在の闘技場カード"
+    },
+    {
+      "slug": "duels",
+      "id": 4,
+      "name": "現在のデュエルカード"
+    },
+    {
+      "slug": "standard",
+      "id": 5,
+      "name": "Standard"
+    },
+    {
+      "slug": "classic",
+      "id": 6,
+      "name": "クラシック"
+    },
+    {
+      "slug": "mercenaries",
+      "id": 7,
+      "name": "Mercenaries"
+    }
+  ],
+  "bgGameModes": [
+    {
+      "slug": "duos",
+      "id": 2,
+      "name": "デュオ"
+    },
+    {
+      "slug": "solos",
+      "id": 1,
+      "name": "ソロ"
+    }
+  ],
+  "arenaIds": [
+    119798,
+    121240,
+    120996,
+    120971,
+    120970,
+    106323,
+    108357,
+    120883,
+    120882,
+    120881,
+    120880,
+    120879,
+    120878,
+    120876,
+    120787,
+    120786,
+    120785,
+    120578,
+    120577,
+    120576,
+    120575,
+    120574,
+    120573,
+    120572,
+    120571,
+    120570,
+    120524,
+    120523,
+    116713,
+    120468,
+    120467,
+    120466,
+    120464,
+    120463,
+    120462,
+    120460,
+    120459,
+    120456,
+    120433,
+    120429,
+    120428,
+    120427,
+    120426,
+    120425,
+    120393,
+    120392,
+    120354,
+    120352,
+    120180,
+    120172,
+    118765,
+    117395,
+    118267,
+    118250,
+    118163,
+    118076,
+    117511,
+    117498,
+    117420,
+    117308,
+    117307,
+    117302,
+    117294,
+    117292,
+    117062,
+    117061,
+    117060,
+    117039,
+    117038,
+    117037,
+    117030,
+    117028,
+    117027,
+    116980,
+    116977,
+    116719,
+    116718,
+    116684,
+    116675,
+    116674,
+    116673,
+    116672,
+    116667,
+    116660,
+    116495,
+    116462,
+    116296,
+    116293,
+    116292,
+    116256,
+    116018,
+    115972,
+    115971,
+    115960,
+    115938,
+    115928,
+    115876,
+    115873,
+    115867,
+    115866,
+    115809,
+    115805,
+    115776,
+    115759,
+    115756,
+    115755,
+    115754,
+    115753,
+    115751,
+    115749,
+    115748,
+    115648,
+    115688,
+    115656,
+    115655,
+    115654,
+    115653,
+    115652,
+    115651,
+    115650,
+    115649,
+    115647,
+    115646,
+    115642,
+    115640,
+    115638,
+    115637,
+    115635,
+    115634,
+    115633,
+    115632,
+    115631,
+    115630,
+    115628,
+    115626,
+    115625,
+    115624,
+    115612,
+    115461,
+    115365,
+    115364,
+    115307,
+    115295,
+    115264,
+    115215,
+    115203,
+    115198,
+    115191,
+    115186,
+    115176,
+    115174,
+    115139,
+    115090,
+    115088,
+    115086,
+    115080,
+    115058,
+    115055,
+    115052,
+    115044,
+    115041,
+    115039,
+    115037,
+    115033,
+    115027,
+    115025,
+    114967,
+    114966,
+    114935,
+    114933,
+    114920,
+    114914,
+    114912,
+    114884,
+    114868,
+    114858,
+    114857,
+    114849,
+    114848,
+    114844,
+    114663,
+    114654,
+    114632,
+    114630,
+    114627,
+    114544,
+    114543,
+    114533,
+    114527,
+    114518,
+    114517,
+    114514,
+    114511,
+    114510,
+    114508,
+    114505,
+    114498,
+    114497,
+    114496,
+    114373,
+    114369,
+    114367,
+    114357,
+    114353,
+    114346,
+    114344,
+    114340,
+    114337,
+    114326,
+    114310,
+    114308,
+    114307,
+    114306,
+    114305,
+    114304,
+    114303,
+    114301,
+    114300,
+    114299,
+    114298,
+    114293,
+    114292,
+    114289,
+    114287,
+    114284,
+    114281,
+    114280,
+    114254,
+    114243,
+    114219,
+    114218,
+    114217,
+    114215,
+    114213,
+    114081,
+    114080,
+    114076,
+    114020,
+    114018,
+    114012,
+    114006,
+    113973,
+    113822,
+    113700,
+    113606,
+    113588,
+    113568,
+    110889,
+    113434,
+    113371,
+    113328,
+    113321,
+    113117,
+    113116,
+    113111,
+    113109,
+    112925,
+    112924,
+    112923,
+    112097,
+    111469,
+    111464,
+    111459,
+    111458,
+    111457,
+    111454,
+    111377,
+    111374,
+    111373,
+    111369,
+    111367,
+    111366,
+    111365,
+    111364,
+    111363,
+    111362,
+    111358,
+    111357,
+    111356,
+    111355,
+    111354,
+    111353,
+    111351,
+    111348,
+    111334,
+    111332,
+    111328,
+    111327,
+    111326,
+    111325,
+    111323,
+    111321,
+    111320,
+    111319,
+    111318,
+    111317,
+    111316,
+    98053,
+    96917,
+    104999,
+    104573,
+    104537,
+    104530,
+    104528,
+    104526,
+    104524,
+    104523,
+    103471,
+    103463,
+    103462,
+    102904,
+    102903,
+    102902,
+    102790,
+    102745,
+    102741,
+    102733,
+    102732,
+    102728,
+    102724,
+    102443,
+    102435,
+    102434,
+    102432,
+    102427,
+    102426,
+    102424,
+    102423,
+    102422,
+    102421,
+    102418,
+    102272,
+    102254,
+    102252,
+    102250,
+    102249,
+    102230,
+    102228,
+    102227,
+    102225,
+    102224,
+    102222,
+    102221,
+    102217,
+    102212,
+    102205,
+    102197,
+    102196,
+    102194,
+    102188,
+    102184,
+    102175,
+    102173,
+    102172,
+    102171,
+    102170,
+    102163,
+    102162,
+    102161,
+    102160,
+    102158,
+    102152,
+    102151,
+    102149,
+    102148,
+    102144,
+    102129,
+    102061,
+    102059,
+    102054,
+    102052,
+    102051,
+    102001,
+    101989,
+    101978,
+    101976,
+    101975,
+    101971,
+    101969,
+    101968,
+    101966,
+    101958,
+    101955,
+    101953,
+    101950,
+    101939,
+    101881,
+    101880,
+    101879,
+    101877,
+    101876,
+    101875,
+    101874,
+    101873,
+    101871,
+    101849,
+    101555,
+    101551,
+    101550,
+    101549,
+    101483,
+    101482,
+    101481,
+    101480,
+    101476,
+    101464,
+    101462,
+    101461,
+    101454,
+    101382,
+    101376,
+    101375,
+    101369,
+    101367,
+    101272,
+    101271,
+    101270,
+    101269,
+    101265,
+    101264,
+    101162,
+    101142,
+    101134,
+    101133,
+    101110,
+    101109,
+    101093,
+    101057,
+    101055,
+    101054,
+    101053,
+    101052,
+    101051,
+    100944,
+    100943,
+    100942,
+    100938,
+    100937,
+    100936,
+    100935,
+    100641,
+    100627,
+    100619,
+    100616,
+    100611,
+    100595,
+    100553,
+    100546,
+    100540,
+    100539,
+    100537,
+    100369,
+    100367,
+    100365,
+    100363,
+    100362,
+    100361,
+    100359,
+    100358,
+    100296,
+    100291,
+    100288,
+    100286,
+    100285,
+    100284,
+    100234,
+    100230,
+    100195,
+    100191,
+    100180,
+    100179,
+    100178,
+    100174,
+    100173,
+    100172,
+    100171,
+    100124,
+    100121,
+    100118,
+    100114,
+    100113,
+    100103,
+    100101,
+    100062,
+    100019,
+    100016,
+    100015,
+    99961,
+    99959,
+    99957,
+    99221,
+    99129,
+    98769,
+    98768,
+    98762,
+    98750,
+    98734,
+    98704,
+    98701,
+    98652,
+    78644,
+    80647,
+    80648,
+    80818,
+    80819,
+    81972,
+    82072,
+    86190,
+    86731,
+    80645,
+    78324,
+    78325,
+    78342,
+    78352,
+    78353,
+    97374,
+    97375,
+    97377,
+    97379,
+    97376,
+    97346,
+    97343,
+    97333,
+    96916,
+    95746,
+    95732,
+    95690,
+    86545,
+    76270,
+    76273,
+    76287,
+    76288,
+    76289,
+    76293,
+    76294,
+    76297,
+    76302,
+    76303,
+    76304,
+    76306,
+    76316,
+    76317,
+    76318,
+    76319,
+    76320,
+    76321,
+    76323,
+    76325,
+    76327,
+    76329,
+    86235,
+    86534,
+    86539,
+    86540,
+    86548,
+    86551,
+    86552,
+    87920,
+    85810,
+    80121,
+    80120,
+    80118,
+    80117,
+    80112,
+    78113,
+    77609,
+    77374,
+    77210,
+    77209,
+    77208,
+    77018,
+    77016,
+    76926,
+    76583,
+    76271,
+    76261,
+    76259,
+    76258,
+    76250,
+    76225,
+    76224,
+    76223,
+    76117,
+    75639,
+    75637,
+    75635,
+    75633,
+    75631,
+    75590,
+    75589,
+    75586,
+    75583,
+    75580,
+    75579,
+    75560,
+    75558,
+    75556,
+    75555,
+    75552,
+    75072,
+    75070,
+    74988,
+    74907,
+    74894,
+    74890,
+    74886,
+    74884,
+    74881,
+    74755,
+    74741,
+    74672,
+    74652,
+    73906,
+    73799,
+    73792,
+    73774,
+    73726,
+    73723,
+    73721,
+    73713,
+    73712,
+    73471,
+    73466,
+    73465,
+    73464,
+    73462,
+    73446,
+    73445,
+    73443,
+    73442,
+    73436,
+    73434,
+    73431,
+    73428,
+    73427,
+    73424,
+    73068,
+    72984,
+    72973,
+    72938,
+    72935,
+    72932,
+    72931,
+    72929,
+    72928,
+    72926,
+    72925,
+    72924,
+    72923,
+    72897,
+    72896,
+    72657,
+    72651,
+    72650,
+    72649,
+    72648,
+    72632,
+    72598,
+    72594,
+    72592,
+    72590,
+    72588,
+    72587,
+    72586,
+    72583,
+    72553,
+    72536,
+    72533,
+    72509,
+    72508,
+    72504,
+    72495,
+    72488,
+    72487,
+    72485,
+    72484,
+    72483,
+    72482,
+    72481,
+    72480,
+    72473,
+    72423,
+    72418,
+    72417,
+    72416,
+    72415,
+    72340,
+    72338,
+    72336,
+    72333,
+    72320,
+    72318,
+    72316,
+    72314,
+    72254,
+    72250,
+    72212,
+    72120,
+    72119,
+    72117,
+    72113,
+    72111,
+    72109,
+    72105,
+    72024,
+    72021,
+    72007,
+    71996,
+    71984,
+    71949,
+    71945,
+    71944,
+    71940,
+    71924,
+    71922,
+    71921,
+    71919,
+    71917,
+    71841,
+    71781,
+    71729,
+    71712,
+    71709,
+    71705,
+    71701,
+    71695,
+    71694,
+    71690,
+    71688,
+    63520,
+    63058,
+    63464,
+    63407,
+    63073,
+    63515,
+    63230,
+    63632,
+    63502,
+    63432,
+    63102,
+    62921,
+    63099,
+    63398,
+    63397,
+    63396,
+    63400,
+    63375,
+    63374,
+    63373,
+    63370,
+    63369,
+    63368,
+    63098,
+    63359,
+    63358,
+    63357,
+    63347,
+    63346,
+    63335,
+    63334,
+    63332,
+    63331,
+    63329,
+    63264,
+    71646,
+    66870,
+    66861,
+    66858,
+    66856,
+    66854,
+    66176,
+    64465,
+    62442,
+    69742,
+    69740,
+    69735,
+    69731,
+    69726,
+    69718,
+    69713,
+    69707,
+    69705,
+    69691,
+    69688,
+    69684,
+    69683,
+    69679,
+    69677,
+    69675,
+    69668,
+    69667,
+    69666,
+    69665,
+    69662,
+    69661,
+    69660,
+    69658,
+    69656,
+    69655,
+    69654,
+    69652,
+    69649,
+    69645,
+    69643,
+    69641,
+    69640,
+    69638,
+    69637,
+    69636,
+    69634,
+    69632,
+    69629,
+    69627,
+    69626,
+    69625,
+    69623,
+    69622,
+    69621,
+    69617,
+    69616,
+    69614,
+    69613,
+    69611,
+    69608,
+    69607,
+    69605,
+    69604,
+    69603,
+    69593,
+    69588,
+    69586,
+    69566,
+    69565,
+    69558,
+    69557,
+    69553,
+    69551,
+    69550,
+    69547,
+    69546,
+    69545,
+    69544,
+    69542,
+    69539,
+    69537,
+    69535,
+    69534,
+    69532,
+    69525,
+    69522,
+    69521,
+    69519,
+    69516,
+    69511,
+    69509,
+    69508,
+    69507,
+    69502,
+    69501,
+    69500,
+    63726,
+    63701,
+    63690,
+    63682,
+    63591,
+    63553,
+    63517,
+    63509,
+    63508,
+    63467,
+    63461,
+    63381,
+    63380,
+    63323,
+    63279,
+    63277,
+    63274,
+    63272,
+    63261,
+    63260,
+    63252,
+    63251,
+    63250,
+    63229,
+    63227,
+    63220,
+    63219,
+    63218,
+    63217,
+    63216,
+    63215,
+    63211,
+    63195,
+    63193,
+    63192,
+    63191,
+    63188,
+    63167,
+    63166,
+    63165,
+    63164,
+    63163,
+    63130,
+    63128,
+    63126,
+    63125,
+    63124,
+    63119,
+    63118,
+    63117,
+    63114,
+    63112,
+    63088,
+    63079,
+    63074,
+    63072,
+    63071,
+    63070,
+    63069,
+    63065,
+    63064,
+    63062,
+    63060,
+    63059,
+    63057,
+    63056,
+    63042,
+    63040,
+    63038,
+    63033,
+    63030,
+    63029,
+    63027,
+    63021,
+    63019,
+    63010,
+    63007,
+    63002,
+    62993,
+    62976,
+    62947,
+    62933,
+    62927,
+    62926,
+    62924,
+    62895,
+    62894,
+    62893,
+    62892,
+    62891,
+    62890,
+    62889,
+    62888,
+    62887,
+    62879,
+    62878,
+    62877,
+    62876,
+    62875,
+    62874,
+    62873,
+    62872,
+    62871,
+    62845,
+    62813,
+    62812,
+    62811,
+    62804,
+    62750,
+    62745,
+    62744,
+    62706,
+    62705,
+    62703,
+    62702,
+    62701,
+    62588,
+    62587,
+    62586,
+    62585,
+    62584,
+    62583,
+    62582,
+    62581,
+    62550,
+    62549,
+    62548,
+    62515,
+    62486,
+    62485,
+    62484,
+    62483,
+    62482,
+    62481,
+    62176,
+    61174,
+    60278,
+    58770,
+    60164,
+    60153,
+    60151,
+    60143,
+    60090,
+    60043,
+    60023,
+    60016,
+    60004,
+    60003,
+    59989,
+    59963,
+    59948,
+    59947,
+    59918,
+    59916,
+    59914,
+    59911,
+    59877,
+    59753,
+    59732,
+    59727,
+    59726,
+    59725,
+    59724,
+    59720,
+    59705,
+    59703,
+    59694,
+    59691,
+    59690,
+    59658,
+    59646,
+    59643,
+    59639,
+    59628,
+    59627,
+    59623,
+    59621,
+    59619,
+    59616,
+    59614,
+    59609,
+    59606,
+    59605,
+    59602,
+    59601,
+    59599,
+    59595,
+    59594,
+    59590,
+    59587,
+    59585,
+    59584,
+    59583,
+    59579,
+    59576,
+    59572,
+    59569,
+    59558,
+    59556,
+    59555,
+    59553,
+    59542,
+    59540,
+    59539,
+    59457,
+    59456,
+    59452,
+    59450,
+    59449,
+    59411,
+    59410,
+    59409,
+    59408,
+    59403,
+    59402,
+    59400,
+    59395,
+    59394,
+    59263,
+    59259,
+    59253,
+    59252,
+    59233,
+    59230,
+    59223,
+    59222,
+    59221,
+    59216,
+    59214,
+    59213,
+    59207,
+    59192,
+    59188,
+    59175,
+    59170,
+    59164,
+    59163,
+    59151,
+    59101,
+    59092,
+    59089,
+    59083,
+    59039,
+    59038,
+    59036,
+    59035,
+    59029,
+    59027,
+    59026,
+    59013,
+    59002,
+    59001,
+    59000,
+    58980,
+    58979,
+    58978,
+    58977,
+    58976,
+    58975,
+    58974,
+    58973,
+    58972,
+    58971,
+    58947,
+    58931,
+    58796,
+    58794,
+    58791,
+    58790,
+    58782
+  ],
+  "types": [
+    {
+      "slug": "hero",
+      "id": 3,
+      "name": "ヒーロー",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "slug": "minion",
+      "id": 4,
+      "name": "ミニオン",
+      "gameModes": [
+        1,
+        2,
+        5,
+        7
+      ]
+    },
+    {
+      "slug": "spell",
+      "id": 5,
+      "name": "呪文",
+      "gameModes": [
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "slug": "weapon",
+      "id": 7,
+      "name": "武器",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "slug": "hero power",
+      "id": 10,
+      "name": "ヒーローパワー"
+    },
+    {
+      "slug": "location",
+      "id": 39,
+      "name": "場所",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "slug": "baconquestreward",
+      "id": 40,
+      "name": "報酬",
+      "gameModes": [
+        2
+      ]
+    },
+    {
+      "slug": "trinket",
+      "id": 44,
+      "name": "装飾品",
+      "gameModes": [
+        2
+      ]
+    },
+    {
+      "slug": "timewarp",
+      "id": 999,
+      "name": "タイムワープ",
+      "gameModes": [
+        2
+      ]
+    }
+  ],
+  "rarities": [
+    {
+      "slug": "common",
+      "id": 1,
+      "craftingCost": [
+        40,
+        400
+      ],
+      "dustValue": [
+        5,
+        50
+      ],
+      "name": "コモン"
+    },
+    {
+      "slug": "free",
+      "id": 2,
+      "craftingCost": [
+        null,
+        null
+      ],
+      "dustValue": [
+        null,
+        null
+      ],
+      "name": "無料"
+    },
+    {
+      "slug": "rare",
+      "id": 3,
+      "craftingCost": [
+        100,
+        800
+      ],
+      "dustValue": [
+        20,
+        100
+      ],
+      "name": "レア"
+    },
+    {
+      "slug": "epic",
+      "id": 4,
+      "craftingCost": [
+        400,
+        1600
+      ],
+      "dustValue": [
+        100,
+        400
+      ],
+      "name": "エピック"
+    },
+    {
+      "slug": "legendary",
+      "id": 5,
+      "craftingCost": [
+        1600,
+        3200
+      ],
+      "dustValue": [
+        400,
+        1600
+      ],
+      "name": "レジェンド"
+    }
+  ],
+  "classes": [
+    {
+      "slug": "deathknight",
+      "id": 1,
+      "name": "デスナイト",
+      "cardId": 78065,
+      "heroPowerCardId": 78162,
+      "alternateHeroCardIds": [
+        78066
+      ]
+    },
+    {
+      "slug": "demonhunter",
+      "id": 14,
+      "name": "デーモンハンター",
+      "cardId": 56550,
+      "heroPowerCardId": 60224,
+      "alternateHeroCardIds": [
+        60238,
+        62491
+      ]
+    },
+    {
+      "slug": "druid",
+      "id": 2,
+      "name": "ドルイド",
+      "cardId": 274,
+      "heroPowerCardId": 1123,
+      "alternateHeroCardIds": [
+        50484,
+        56358,
+        57761,
+        60375,
+        64698
+      ]
+    },
+    {
+      "slug": "hunter",
+      "id": 3,
+      "name": "ハンター",
+      "cardId": 31,
+      "heroPowerCardId": 229,
+      "alternateHeroCardIds": [
+        2826,
+        60335,
+        61597,
+        64699,
+        71080
+      ]
+    },
+    {
+      "slug": "mage",
+      "id": 4,
+      "name": "メイジ",
+      "cardId": 637,
+      "heroPowerCardId": 807,
+      "alternateHeroCardIds": [
+        2829,
+        39117,
+        57765,
+        61598,
+        62772,
+        64844,
+        64845,
+        64846,
+        64847
+      ]
+    },
+    {
+      "slug": "paladin",
+      "id": 5,
+      "name": "パラディン",
+      "cardId": 671,
+      "heroPowerCardId": 472,
+      "alternateHeroCardIds": [
+        2827,
+        46116,
+        53187,
+        57757,
+        61596,
+        61886,
+        64732,
+        67519
+      ]
+    },
+    {
+      "slug": "priest",
+      "id": 6,
+      "name": "プリースト",
+      "cardId": 813,
+      "heroPowerCardId": 479,
+      "alternateHeroCardIds": [
+        41887,
+        54816,
+        57767,
+        64733,
+        67523,
+        67710,
+        71074,
+        71075,
+        71076
+      ]
+    },
+    {
+      "slug": "rogue",
+      "id": 7,
+      "name": "ローグ",
+      "cardId": 930,
+      "heroPowerCardId": 730,
+      "alternateHeroCardIds": [
+        40195,
+        57755,
+        64734,
+        67522,
+        67846
+      ]
+    },
+    {
+      "slug": "shaman",
+      "id": 8,
+      "name": "シャーマン",
+      "cardId": 1066,
+      "heroPowerCardId": 687,
+      "alternateHeroCardIds": [
+        40183,
+        53237,
+        55963,
+        57753,
+        60673,
+        64736,
+        64848,
+        64849,
+        64850,
+        71058
+      ]
+    },
+    {
+      "slug": "warlock",
+      "id": 9,
+      "name": "ウォーロック",
+      "cardId": 893,
+      "heroPowerCardId": 300,
+      "alternateHeroCardIds": [
+        47817,
+        51834,
+        57763,
+        64685,
+        64738
+      ]
+    },
+    {
+      "slug": "warrior",
+      "id": 10,
+      "name": "ウォリアー",
+      "cardId": 7,
+      "heroPowerCardId": 725,
+      "alternateHeroCardIds": [
+        2828,
+        57751,
+        58787,
+        61595,
+        61923,
+        64739,
+        67521,
+        71071,
+        71072,
+        71073
+      ]
+    },
+    {
+      "slug": "neutral",
+      "id": 12,
+      "name": "中立"
+    }
+  ],
+  "minionTypes": [
+    {
+      "slug": "bloodelf",
+      "id": 1,
+      "name": "ブラッドエルフ",
+      "gameModes": [
+        7
+      ]
+    },
+    {
+      "slug": "draenei",
+      "id": 2,
+      "name": "ドラナイ",
+      "gameModes": [
+        1,
+        5,
+        7
+      ]
+    },
+    {
+      "slug": "dwarf",
+      "id": 3,
+      "name": "ドワーフ",
+      "gameModes": [
+        7
+      ]
+    },
+    {
+      "slug": "gnome",
+      "id": 4,
+      "name": "ノーム",
+      "gameModes": [
+        7
+      ]
+    },
+    {
+      "slug": "human",
+      "id": 6,
+      "name": "ヒューマン",
+      "gameModes": [
+        7
+      ]
+    },
+    {
+      "slug": "nightelf",
+      "id": 7,
+      "name": "ナイトエルフ",
+      "gameModes": [
+        7
+      ]
+    },
+    {
+      "slug": "orc",
+      "id": 8,
+      "name": "オーク",
+      "gameModes": [
+        7
+      ]
+    },
+    {
+      "slug": "tauren",
+      "id": 9,
+      "name": "トーレン",
+      "gameModes": [
+        7
+      ]
+    },
+    {
+      "slug": "troll",
+      "id": 10,
+      "name": "トロル",
+      "gameModes": [
+        7
+      ]
+    },
+    {
+      "slug": "undead",
+      "id": 11,
+      "name": "アンデッド",
+      "gameModes": [
+        1,
+        2,
+        5,
+        7
+      ]
+    },
+    {
+      "slug": "murloc",
+      "id": 14,
+      "name": "マーロック",
+      "gameModes": [
+        1,
+        2,
+        5,
+        7
+      ]
+    },
+    {
+      "slug": "demon",
+      "id": 15,
+      "name": "悪魔",
+      "gameModes": [
+        1,
+        2,
+        5,
+        7
+      ]
+    },
+    {
+      "slug": "mech",
+      "id": 17,
+      "name": "メカ",
+      "gameModes": [
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "slug": "elemental",
+      "id": 18,
+      "name": "エレメンタル",
+      "gameModes": [
+        1,
+        2,
+        5,
+        7
+      ]
+    },
+    {
+      "slug": "beast",
+      "id": 20,
+      "name": "獣",
+      "gameModes": [
+        1,
+        2,
+        5,
+        7
+      ]
+    },
+    {
+      "slug": "totem",
+      "id": 21,
+      "name": "トーテム",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "slug": "pirate",
+      "id": 23,
+      "name": "海賊",
+      "gameModes": [
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "slug": "dragon",
+      "id": 24,
+      "name": "ドラゴン",
+      "gameModes": [
+        1,
+        2,
+        5,
+        7
+      ]
+    },
+    {
+      "slug": "all",
+      "id": 26,
+      "name": "全て",
+      "gameModes": [
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "slug": "quilboar",
+      "id": 43,
+      "name": "キルボア",
+      "gameModes": [
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "slug": "halforc",
+      "id": 88,
+      "name": "ハーフオーク"
+    },
+    {
+      "slug": "naga",
+      "id": 92,
+      "name": "ナーガ",
+      "gameModes": [
+        1,
+        2,
+        5,
+        7
+      ]
+    },
+    {
+      "slug": "oldgod",
+      "id": 93,
+      "name": "旧神",
+      "gameModes": [
+        7
+      ]
+    },
+    {
+      "slug": "pandaren",
+      "id": 94,
+      "name": "パンダレン",
+      "gameModes": [
+        7
+      ]
+    },
+    {
+      "slug": "gronn",
+      "id": 95,
+      "name": "グロン",
+      "gameModes": [
+        7
+      ]
+    }
+  ],
+  "spellSchools": [
+    {
+      "slug": "arcane",
+      "id": 1,
+      "name": "魔力",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "slug": "fire",
+      "id": 2,
+      "name": "火炎",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "slug": "frost",
+      "id": 3,
+      "name": "凍気",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "slug": "nature",
+      "id": 4,
+      "name": "自然",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "slug": "holy",
+      "id": 5,
+      "name": "神聖",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "slug": "shadow",
+      "id": 6,
+      "name": "影",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "slug": "fel",
+      "id": 7,
+      "name": "フェル",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "slug": "lesser_trinket",
+      "id": 11,
+      "name": "下級",
+      "gameModes": [
+        2
+      ]
+    },
+    {
+      "slug": "greater_trinket",
+      "id": 12,
+      "name": "上級",
+      "gameModes": [
+        2
+      ]
+    }
+  ],
+  "mercenaryRoles": [
+    {
+      "slug": "caster",
+      "id": 1,
+      "name": "術師"
+    },
+    {
+      "slug": "fighter",
+      "id": 2,
+      "name": "戦士"
+    },
+    {
+      "slug": "tank",
+      "id": 3,
+      "name": "護衛"
+    }
+  ],
+  "mercenaryFactions": [
+    {
+      "slug": "alliance",
+      "id": 1,
+      "name": "アライアンス"
+    },
+    {
+      "slug": "horde",
+      "id": 2,
+      "name": "ホード"
+    },
+    {
+      "slug": "empire",
+      "id": 3,
+      "name": "帝国"
+    },
+    {
+      "slug": "explorer",
+      "id": 4,
+      "name": "探検家"
+    },
+    {
+      "slug": "legion",
+      "id": 5,
+      "name": "焦熱の軍団"
+    },
+    {
+      "slug": "pirate",
+      "id": 6,
+      "name": "海賊"
+    },
+    {
+      "slug": "scourge",
+      "id": 7,
+      "name": "スコージ"
+    }
+  ],
+  "factions": [
+    {
+      "slug": "grimy_goons",
+      "id": 482,
+      "name": "グライミー・グーンズ"
+    },
+    {
+      "slug": "jade_lotus",
+      "id": 483,
+      "name": "翡翠蓮"
+    },
+    {
+      "slug": "kabal",
+      "id": 484,
+      "name": "カバール"
+    },
+    {
+      "slug": "zerg",
+      "id": 3457,
+      "name": "ザーグ"
+    },
+    {
+      "slug": "terran",
+      "id": 3458,
+      "name": "テラン"
+    },
+    {
+      "slug": "protoss",
+      "id": 3469,
+      "name": "プロトス"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1,
+      "slug": "taunt\n",
+      "name": "挑発",
+      "refText": "敵は「挑発」を持つミニオンしか攻撃できない。",
+      "text": "敵はこのミニオンしか攻撃できない。",
+      "gameModes": [
+        1,
+        2,
+        5,
+        7
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "spell-damage\n",
+      "name": "呪文ダメージ",
+      "refText": "あんたの呪文は追加ダメージを与えるぞ。",
+      "text": "呪文カードが与えるダメージが 増える。",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "divine-shield",
+      "name": "聖なる盾",
+      "refText": "聖なる盾を持つキャラクターは、最初に受けるダメージを無視できる。",
+      "text": "これは、最初に受けるダメージを無視できる。",
+      "gameModes": [
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "charge",
+      "name": "突撃",
+      "refText": "召喚後、すぐに攻撃できる。",
+      "text": "召喚後、すぐに攻撃できる。",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "secret\n",
+      "name": "秘策",
+      "refText": "相手のターンで特定の条件が満たされると効果が発動する。",
+      "text": "相手のターンで特定の条件が満たされると効果が発動する。",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "stealth\n",
+      "name": "隠れ身",
+      "refText": "自身が攻撃を行うまで、攻撃対象や標的にならない。",
+      "text": "自身が攻撃を行うまで、攻撃対象や標的にならない。",
+      "gameModes": [
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "id": 8,
+      "slug": "battlecry\n",
+      "name": "雄叫び",
+      "refText": "手札から使用した時に何らかの効果を発生させる。",
+      "text": "手札から使用した時に何らかの効果を発生させる。",
+      "gameModes": [
+        1,
+        2,
+        5,
+        7
+      ]
+    },
+    {
+      "id": 10,
+      "slug": "freeze\n",
+      "name": "凍結",
+      "refText": "凍結したキャラクターは次のターン攻撃できない。",
+      "text": "凍結したキャラクターは次のターン攻撃できない。",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 11,
+      "slug": "windfury\n",
+      "name": "疾風",
+      "refText": "毎ターン2回ずつ攻撃できる。",
+      "text": "毎ターン2回ずつ攻撃できる。",
+      "gameModes": [
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "id": 12,
+      "slug": "deathrattle\n",
+      "name": "断末魔",
+      "refText": "死亡時に何らかの効果を発生させる。",
+      "text": "死亡時に何らかの効果を発生させる。",
+      "gameModes": [
+        1,
+        2,
+        5,
+        7
+      ]
+    },
+    {
+      "id": 13,
+      "slug": "combo\n",
+      "name": "コンボ",
+      "refText": "同じターン中、別のカードの後でこのカードを使用するとボーナス効果を得られる。",
+      "text": "同じターン中、別のカードの後でこのカードを使用するとボーナス効果を得られる。",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 14,
+      "slug": "overload:-x\n",
+      "name": "オーバーロード: X",
+      "refText": "オーバーロードを持つカードを使うと、次のターンに使えるマナが制限されるぞ。",
+      "text": "次のターン使えるマナがX減る。",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 15,
+      "slug": "silence\n",
+      "name": "沈黙",
+      "refText": "カードテキストの効果と、付与された効果を全て除去する。",
+      "text": "カードテキストの効果と、付与された効果を全て除去する。",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 16,
+      "slug": "counter\n",
+      "name": "相殺",
+      "refText": "相殺されたカードは効果を失う。",
+      "text": "相殺されたカードは効果を失う。",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 17,
+      "slug": "immune",
+      "name": "無敵",
+      "refText": "無敵のキャラクターは敵の標的にならず、ダメージを受けない。",
+      "text": "敵の標的にならず、ダメージを受けない。",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 19,
+      "slug": "spare-parts\n",
+      "name": "スペアパーツ",
+      "refText": "スペアパーツは、効果の小さいコスト1の呪文だ。",
+      "text": "スペアパーツは、効果の小さいコスト1の呪文だ。",
+      "gameModes": [
+        1
+      ]
+    },
+    {
+      "id": 20,
+      "slug": "inspire\n",
+      "name": "激励",
+      "refText": "君がヒーローパワーを使うと、その直後に何らかの効果を発生させる。",
+      "text": "君がヒーローパワーを使うと、その直後に何らかの効果を発生させる。",
+      "gameModes": [
+        1
+      ]
+    },
+    {
+      "id": 21,
+      "slug": "discover\n",
+      "name": "発見",
+      "refText": "3枚の中から手札に加えるカードを1枚選んでくれ。",
+      "text": "3枚の中から手札に加えるカードを1枚選んでくれ。",
+      "gameModes": [
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "id": 31,
+      "slug": "quest\n",
+      "name": "クエスト",
+      "refText": "必ず最初の手札に入る。完了すると報酬を得る。",
+      "text": "必ず最初の手札に入る。完了すると報酬を得る。",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 32,
+      "slug": "poisonous\n",
+      "name": "猛毒",
+      "refText": "このカードからダメージを受けたミニオンを破壊する。",
+      "text": "このカードからダメージを受けたミニオンを破壊する。",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 34,
+      "slug": "adapt\n",
+      "name": "適応",
+      "refText": "3つのボーナスから1つ選んでくれ。",
+      "text": "3つのボーナスから1つ選んでくれ。",
+      "gameModes": [
+        1
+      ]
+    },
+    {
+      "id": 38,
+      "slug": "lifesteal\n",
+      "name": "生命奪取",
+      "refText": "与えたダメージ分、自分のヒーローを回復する。",
+      "text": "与えたダメージ分、自分のヒーローを回復する。",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 39,
+      "slug": "recruit\n",
+      "name": "招集",
+      "refText": "自分のデッキからミニオンを1体召喚する。",
+      "text": "自分のデッキからミニオンを1体召喚する。",
+      "gameModes": [
+        1
+      ]
+    },
+    {
+      "id": 52,
+      "slug": "echo\n",
+      "name": "木霊",
+      "refText": "手札から使用したターン中は繰り返し使える。コピーのコストは（0）以下にはならない。",
+      "text": "手札から使用したターン中は繰り返し使える。コピーのコストは（0）以下にはならない。",
+      "gameModes": [
+        1
+      ]
+    },
+    {
+      "id": 53,
+      "slug": "rush\n",
+      "name": "急襲",
+      "refText": "召喚後、すぐにミニオンを攻撃できる。",
+      "text": "召喚後、すぐにミニオンを攻撃できる。",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 61,
+      "slug": "overkill\n",
+      "name": "血祭",
+      "refText": "自分のターンに必要以上のダメージを与えミニオンを殺すとボーナス。",
+      "text": "自分のターンに必要以上のダメージを与えミニオンを殺すとボーナス。",
+      "gameModes": [
+        1
+      ]
+    },
+    {
+      "id": 64,
+      "slug": "start-of-game\n",
+      "name": "対戦開始時",
+      "refText": "最初のターンの開始前に何かを行う。",
+      "text": "最初のターンの開始前に何かを行う。",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 66,
+      "slug": "magnetic\n",
+      "name": "超電磁",
+      "refText": "手札から使用してメカの左隣に置くと、そのメカと合体！",
+      "text": "手札から使用してメカの左隣に置くと、そのメカと合体！",
+      "gameModes": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 71,
+      "slug": "lackey\n",
+      "name": "悪の手先",
+      "refText": "悪の手先はコスト1のミニオンで、雄叫びを持つ。",
+      "text": "悪の手先はコスト1のミニオンで、雄叫びを持つ。",
+      "gameModes": [
+        1
+      ]
+    },
+    {
+      "id": 76,
+      "slug": "twinspell\n",
+      "name": "双呪文",
+      "refText": "2回使用できる。",
+      "text": "2回使用できる。",
+      "gameModes": [
+        1
+      ]
+    },
+    {
+      "id": 77,
+      "slug": "mega-windfury\n",
+      "name": "メガ疾風",
+      "refText": "毎ターン4回ずつ攻撃できる。",
+      "text": "毎ターン4回ずつ攻撃できる。",
+      "gameModes": [
+        1
+      ]
+    },
+    {
+      "id": 78,
+      "slug": "reborn\n",
+      "name": "蘇り",
+      "refText": "初めて死んだ時、体力1で蘇る。",
+      "text": "初めて死んだ時、体力1で蘇る。",
+      "gameModes": [
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "id": 79,
+      "slug": "invoke\n",
+      "name": "祈願",
+      "refText": "ガラクロンドのパワーを使用する。",
+      "text": "ガラクロンドのパワーを使用する。",
+      "gameModes": [
+        1
+      ]
+    },
+    {
+      "id": 86,
+      "slug": "outcast\n",
+      "name": "異端",
+      "refText": "このカードを手札の左端または右端から使用した時のボーナス。",
+      "text": "このカードを手札の左端または右端から使用した時のボーナス。",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 88,
+      "slug": "spellburst\n",
+      "name": "魔法活性",
+      "refText": "自分が呪文を使用した後に1回だけ発動する効果。",
+      "text": "自分が呪文を使用した後に1回だけ発動する効果。",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 89,
+      "slug": "sidequest\n",
+      "name": "サイドクエスト",
+      "refText": "完了すると報酬を得る。",
+      "text": "完了すると報酬を得る。",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 91,
+      "slug": "corrupt\n",
+      "name": "変妖",
+      "refText": "手札にある時、より高いコストのカードを使うとアップグレードする。",
+      "text": "手札にある時、より高いコストのカードを使うとアップグレードする。",
+      "gameModes": [
+        1
+      ]
+    },
+    {
+      "id": 96,
+      "slug": "questline\n",
+      "name": "連続クエスト",
+      "refText": "必ず最初の手札に入る。完了すると報酬を得る。3連続まで！",
+      "text": "必ず最初の手札に入る。完了すると報酬を得る。3連続まで！",
+      "gameModes": [
+        1
+      ]
+    },
+    {
+      "id": 97,
+      "slug": "tradeable\n",
+      "name": "交換可",
+      "refText": "これを自分のデッキまでドラッグすると1マナ支払って新しいカードを1枚引ける。",
+      "text": "これを自分のデッキまでドラッグすると1マナ支払って新しいカードを1枚引ける。",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 99,
+      "slug": "frenzy\n",
+      "name": "逆上",
+      "refText": "このミニオンがダメージを受けて生き残った後に1回だけ発動する効果。",
+      "text": "このミニオンがダメージを受けて生き残った後に1回だけ発動する効果。",
+      "gameModes": [
+        1
+      ]
+    },
+    {
+      "id": 100,
+      "slug": "honorable-kill\n",
+      "name": "武勲",
+      "refText": "自分のターンに体力がピッタリ0になるダメージを与えミニオンを殺すとボーナス。",
+      "text": "自分のターンに体力がピッタリ0になるダメージを与えミニオンを殺すとボーナス。",
+      "gameModes": [
+        1
+      ]
+    },
+    {
+      "id": 104,
+      "slug": "nature-spell-damage\n",
+      "name": "自然呪文ダメージ",
+      "refText": "あんたの自然呪文は追加ダメージを与えるぞ。",
+      "text": "自然呪文カードが与えるダメージが 増える。",
+      "gameModes": [
+        1
+      ]
+    },
+    {
+      "id": 109,
+      "slug": "blood-gem\n",
+      "name": "血の宝石",
+      "refText": "ミニオン1体に+1/+1を付与する呪文。",
+      "text": "ミニオン1体に+1/+1を付与する呪文。",
+      "gameModes": [
+        2
+      ]
+    },
+    {
+      "id": 196,
+      "slug": "refresh\n",
+      "name": "入替",
+      "refText": "酒場を新しいカード達に入れ替える。",
+      "text": "酒場を新しいカード達に入れ替える。",
+      "gameModes": [
+        2
+      ]
+    },
+    {
+      "id": 198,
+      "slug": "avenge-(x)\n",
+      "name": "仇討（X）",
+      "refText": "戦闘中に味方のミニオンがX体死んだ後、能力が発動する。",
+      "text": "戦闘中に味方のミニオンがX体死んだ後、能力が発動する。",
+      "gameModes": [
+        2
+      ]
+    },
+    {
+      "id": 231,
+      "slug": "colossal-+x\n",
+      "name": "超大型+X",
+      "refText": "召喚された時、追加部位X体を召喚する。",
+      "text": "召喚された時、追加部位X体を召喚する。",
+      "gameModes": [
+        1
+      ]
+    },
+    {
+      "id": 232,
+      "slug": "dredge\n",
+      "name": "海底探査",
+      "refText": "自分のデッキの底の3枚のカードを見る。 1枚をデッキの一番上に置く。",
+      "text": "自分のデッキの底の3枚のカードを見る。 1枚をデッキの一番上に置く。",
+      "gameModes": [
+        1
+      ]
+    },
+    {
+      "id": 234,
+      "slug": "spellcraft\n",
+      "name": "呪文錬成",
+      "refText": "毎ターン、一時的な呪文を1つ得る。",
+      "text": "毎ターン、一時的な呪文を1つ得る。",
+      "gameModes": [
+        2
+      ]
+    },
+    {
+      "id": 238,
+      "slug": "infuse\n",
+      "name": "吸魂",
+      "refText": "手札にある時、味方のミニオンがX体死ぬとアップグレード。",
+      "text": "手札にある時、味方のミニオンがX体死ぬとアップグレード。",
+      "gameModes": [
+        1
+      ]
+    },
+    {
+      "id": 247,
+      "slug": "corpse\n",
+      "name": "死体",
+      "refText": "味方のミニオンが死んだ時に得られるリソース。",
+      "text": "味方のミニオンが死んだ時に得られるリソース。",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 255,
+      "slug": "finale\n",
+      "name": "フィナーレ",
+      "refText": "このカードで残りマナを全て消費するとボーナス発生。",
+      "text": "このカードで残りマナを全て消費するとボーナス発生。",
+      "gameModes": [
+        1
+      ]
+    },
+    {
+      "id": 256,
+      "slug": "overheal\n",
+      "name": "過回復",
+      "refText": "体力減少分を越える回復を受けるとボーナス発生。",
+      "text": "体力減少分を越える回復を受けるとボーナス発生。",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 257,
+      "slug": "manathirst-(x)\n",
+      "name": "マナ渇望（X）",
+      "refText": "マナクリスタルがX個あると得られるボーナス。",
+      "text": "マナクリスタルがX個あると得られるボーナス。",
+      "gameModes": [
+        1
+      ]
+    },
+    {
+      "id": 261,
+      "slug": "venomous\n",
+      "name": "毒袋",
+      "refText": "これが最初にダメージを与えたミニオンを破壊する。",
+      "text": "これが最初にダメージを与えたミニオンを破壊する。",
+      "gameModes": [
+        2
+      ]
+    },
+    {
+      "id": 265,
+      "slug": "elusive",
+      "name": "躱し身",
+      "refText": "呪文とヒーローパワーの標的にならない。",
+      "text": "呪文とヒーローパワーの標的にならない。",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 266,
+      "slug": "forge\t\t\n",
+      "name": "鍛造",
+      "refText": "これを自分のデッキまでドラッグすると、（2）マナ支払ってアップグレードできる。",
+      "text": "これを自分のデッキまでドラッグすると、（2）マナ支払ってアップグレードできる。",
+      "gameModes": [
+        1
+      ]
+    },
+    {
+      "id": 270,
+      "slug": "titan\n",
+      "name": "タイタン",
+      "refText": "タイタンをクリックすると、攻撃ではなく3つの能力のうち1つを使用できる。",
+      "text": "タイタンをクリックすると、攻撃ではなく3つの能力のうち1つを使用できる。",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 294,
+      "slug": "miniaturize",
+      "name": "ミニ工作",
+      "refText": "このカードのコスト1 1/1のコピーを1枚得る。",
+      "text": "このカードのコスト1 1/1のコピーを1枚得る。",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 295,
+      "slug": "mini",
+      "name": "ミニ",
+      "refText": "元のカードのコスト1 1/1のコピー。",
+      "text": "元のカードのコスト1 1/1のコピー。",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 297,
+      "slug": "quickdraw\n",
+      "name": "早撃ち",
+      "refText": "自分の手札に入ったのがこのターンの場合のボーナス。",
+      "text": "自分の手札に入ったのがこのターンの場合のボーナス。",
+      "gameModes": [
+        1
+      ]
+    },
+    {
+      "id": 298,
+      "slug": "excavate\n",
+      "name": "発掘",
+      "refText": "宝物を掘る。掘る度に宝物のレア度が上がる。最高レア度を掘り出すと、レア度はリセットされる。",
+      "text": "宝物を掘る。掘る度に宝物のレア度が上がる。最高レア度を掘り出すと、レア度はリセットされる。",
+      "gameModes": [
+        1
+      ]
+    },
+    {
+      "id": 300,
+      "slug": "pass",
+      "name": "パス",
+      "refText": "チームメイトの手札に送る。",
+      "text": "チームメイトの手札に送る。",
+      "gameModes": [
+        2
+      ]
+    },
+    {
+      "id": 303,
+      "slug": "buddy",
+      "name": "バディ",
+      "refText": "各ヒーローパワーに固有の強力なミニオン。",
+      "text": "各ヒーローパワーに固有の強力なミニオン。",
+      "gameModes": [
+        2
+      ]
+    },
+    {
+      "id": 318,
+      "slug": "imbue",
+      "name": "鼓舞",
+      "refText": "新たなヒーローパワーを獲得し、そのヒーローパワーはさらに鼓舞する度にアップグレードする。",
+      "text": "新たなヒーローパワーを獲得し、そのヒーローパワーはさらに鼓舞する度にアップグレードする。",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 319,
+      "slug": "dark-gift",
+      "name": "悪夢の恵み",
+      "refText": "ミニオンに付与されたボーナス。",
+      "text": "ミニオンに付与されたボーナス。",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 320,
+      "slug": "temporary",
+      "name": "一時的",
+      "refText": "自分のターンの終了時に破棄される。",
+      "text": "自分のターンの終了時に破棄される。",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 323,
+      "slug": "starship",
+      "name": "宇宙船",
+      "refText": "破壊されたパーツの攻撃力・体力と効果が全部ドッキングするぞ。クリックで発射！",
+      "text": "破壊されたパーツの攻撃力・体力と効果が全部ドッキングするぞ。クリックで発射！",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 344,
+      "slug": "rewind",
+      "name": "巻き戻し",
+      "refText": "異なる結果が出ることを期待してもう一度使用できる。",
+      "text": "異なる結果が出ることを期待してもう一度使用できる。",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 351,
+      "slug": "kindred",
+      "name": "系譜",
+      "refText": "前のターンに同じ種族のミニオンまたは同じ系統の呪文を使用していた場合に発動するボーナス。",
+      "text": "前のターンに同じ種族のミニオンまたは同じ系統の呪文を使用していた場合に発動するボーナス。",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 356,
+      "slug": "fabled",
+      "name": "列伝",
+      "refText": "さらに2種類の新カードを開始時のデッキに追加する。",
+      "text": "さらに2種類の新カードを開始時のデッキに追加する。",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 357,
+      "slug": "fabled+",
+      "name": "列伝+",
+      "refText": "さらに9種類の新カードを開始時のデッキに追加する。",
+      "text": "さらに9種類の新カードを開始時のデッキに追加する。",
+      "gameModes": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 360,
+      "slug": "rally",
+      "name": "勝鬨",
+      "refText": "攻撃する際は何らかの効果を発生させる。",
+      "text": "攻撃する際は何らかの効果を発生させる。",
+      "gameModes": [
+        2
+      ]
+    }
+  ],
+  "filterableFields": [
+    "collectible",
+    "cardSetId",
+    "spellSchoolId",
+    "rarityId",
+    "cardTypeId",
+    "manaCost",
+    "attack",
+    "health",
+    "armor"
+  ],
+  "numericFields": [
+    "manaCost",
+    "attack",
+    "health",
+    "armor"
+  ],
+  "cardBackCategories": [
+    {
+      "slug": "base",
+      "id": 1,
+      "name": "基本"
+    },
+    {
+      "slug": "fireside",
+      "id": 2,
+      "name": "炉端"
+    },
+    {
+      "slug": "achieve",
+      "id": 3,
+      "name": "実績"
+    },
+    {
+      "slug": "heroes",
+      "id": 4,
+      "name": "ヒーロー"
+    },
+    {
+      "slug": "season",
+      "id": 5,
+      "name": "シーズン"
+    },
+    {
+      "slug": "legend",
+      "id": 6,
+      "name": "レジェンド"
+    },
+    {
+      "slug": "esports",
+      "id": 7,
+      "name": "eスポーツ"
+    },
+    {
+      "slug": "game_license",
+      "id": 8,
+      "name": "ゲーム"
+    },
+    {
+      "slug": "promotion",
+      "id": 9,
+      "name": "プロモーション"
+    },
+    {
+      "slug": "pre_purchase",
+      "id": 10,
+      "name": "先行購入"
+    },
+    {
+      "slug": "blizzard",
+      "id": 11,
+      "name": "Blizzard"
+    },
+    {
+      "slug": "golden",
+      "id": 12,
+      "name": "ゴールデン"
+    },
+    {
+      "slug": "events",
+      "id": 13,
+      "name": "イベント"
+    }
+  ]
+}
